@@ -1,0 +1,6 @@
+<div contenteditable="true" translate="no"
+    class="tiptap ProseMirror rounded-md border min-w-[600px] min-h-[150px] border-input bg-background px-3 py-3"
+    tabindex="0">
+    <p>สวัสดี โลกใบนี้ 🙏🌎</p>
+    <p>http://l<span style="color: #CCCCCC">ocalhost</span>:3000/</p>
+</div>
